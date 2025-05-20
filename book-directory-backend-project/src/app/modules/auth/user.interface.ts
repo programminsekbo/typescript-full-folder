@@ -1,6 +1,5 @@
 import { Document } from "mongoose";
 
-
 export enum Role {
     USER = "user",
     ADMIN = "admin"
